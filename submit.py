@@ -83,26 +83,3 @@ faculty_username, video_list = utils.read_videos()
 browser = run_casper(faculty_username, video_list)
 while 1:
     browser = browser
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
